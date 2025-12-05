@@ -20,7 +20,7 @@ body {
     padding: 0 20px;
 }
 .slide {
-    height: 80vh;
+    height: 100vh;
     border-radius: 20px;
     margin: 10px;
     cursor: pointer; /* курсор пальчик*/
