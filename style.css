@@ -9,7 +9,7 @@ body {
   overflow: hidden;
   margin: 0;
   background: #111;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   justify-content: center; /*возможно глючил - есть задержка сервера виртуального - тут пока четко  */
   align-items: center;
@@ -20,7 +20,7 @@ body {
     padding: 0 20px;
 }
 .slide {
-    height: 100vh;
+    height: 80vh;
     border-radius: 20px;
     margin: 10px;
     cursor: pointer; /* курсор пальчик*/
